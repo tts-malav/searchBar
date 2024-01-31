@@ -1,6 +1,6 @@
 import React from 'react'
 
-const searchbar1 = () => {
+const search1 = () => {
   return (
     <>
     <nav class="py-4 px-4 flex justify-between bg-zinc-100 items-center">
@@ -42,4 +42,5 @@ const searchbar1 = () => {
   )
 }
 
-export default searchbar1
+export default search1
+
